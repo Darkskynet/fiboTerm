@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-fib_spiral_deluxe.py
+fiboTerm.py
 
 A terminal "deluxe" golden spiral visualiser.
 
@@ -19,7 +19,7 @@ Features:
  - No external dependencies (stdlib only)
 
 Example:
-    python fib_spiral_deluxe.py --turns 8 --braille --trail --color rainbow --color-source distance
+    python fiboTerm.py --turns 8 --braille --trail --color rainbow --color-source distance
 """
 
 import argparse
@@ -627,3 +627,4 @@ if __name__ == "__main__":
         sys.stdout.write(RESET)
         sys.stdout.write("\nInterrupted.\n")
         sys.exit(0)
+
