@@ -135,7 +135,6 @@ Every quarter turn (90°) increases the radius by a factor of φ.
 ## 🧑‍💻 Author
 
 Created by **Darkskynet**
-A terminal art experiment exploring mathematics, color, and motion.
 
 ---
 
