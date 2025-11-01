@@ -118,7 +118,10 @@ Every quarter turn (90°) increases the radius by a factor of φ.
 
 ## 🖼️ Screenshots
 
-*coming soon*
+<img width="814.5" height="610" alt="image" src="https://github.com/user-attachments/assets/9fafce18-92bb-4ff9-9370-9b191ba39e4e" />
+<img width="408" height="596" alt="image" src="https://github.com/user-attachments/assets/a05d4f6d-009f-4ec8-adcc-479442bb3255" />
+
+
 
 ---
 
